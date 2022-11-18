@@ -91,7 +91,7 @@ dependencies {
     val lifecycleVersion = "2.5.1"
     val composeVersion = "1.3.0"
     val accompanistVersion = "0.27.0"
-    val hiltVersion = "2.44"
+    val hiltVersion = "2.44.2"
     val retrofitVersion = "2.9.0"
 
     implementation("androidx.core:core-ktx:1.9.0")
@@ -101,7 +101,7 @@ dependencies {
     implementation("androidx.compose.ui:ui-tooling:$composeVersion")
     implementation("androidx.compose.animation:animation:$composeVersion")
     implementation("androidx.compose.material:material:$composeVersion")
-    implementation("androidx.compose.material3:material3:1.0.0")
+    implementation("androidx.compose.material3:material3:1.1.0-alpha02")
     implementation("androidx.lifecycle:lifecycle-runtime-ktx:$lifecycleVersion")
     implementation("androidx.lifecycle:lifecycle-viewmodel-compose:$lifecycleVersion")
     implementation("com.google.accompanist:accompanist-insets:$accompanistVersion")
