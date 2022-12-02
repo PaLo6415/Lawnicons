@@ -52,12 +52,15 @@
     <icon drawable="@drawable/audiofx" package="org.lineageos.audiofx" name="AudioFX" />
     <icon drawable="@drawable/aurora_droid" package="com.aurora.adroid" name="Aurora Droid" />
     <icon drawable="@drawable/aurora_store" package="com.aurora.store" name="Aurora Store" />
+    <icon drawable="@drawable/ausweisapp2" package="com.governikus.ausweisapp2" name="AusweisApp2" />
+    <icon drawable="@drawable/ausweisapp2" package="com.governikus.ausweisapp2.dev" name="AusweisApp2" />
     <icon drawable="@drawable/authy" package="com.authy.authy" name="Authy" />
     <icon drawable="@drawable/auxio" package="org.oxycblt.auxio" name="Auxio" />
     <icon drawable="@drawable/aves_gallery" package="deckers.thibault.aves" name="Aves Gallery" />
     <icon drawable="@drawable/axisnet" package="com.axis.net" name="AXISnet" />
     <icon drawable="@drawable/babbel" package="com.babbel.mobile.android.en" name="Babbel" />
     <icon drawable="@drawable/backdrops" package="com.backdrops.wallpapers" name="Backdrops" />
+    <icon drawable="@drawable/bandcamp" package="com.bandcamp.android" name="Bandcamp" />
     <icon drawable="@drawable/bandlab" package="com.bandlab.bandlab" name="BandLab" />
     <icon drawable="@drawable/bandsintown" package="com.bandsintown" name="Bandsintown" />
     <icon drawable="@drawable/bank_jago" package="com.jago.digitalbanking" name="Jago" />
@@ -494,6 +497,7 @@
     <icon drawable="@drawable/healthmate" package="com.withings.wiscale2" name="HaelthMate" />
     <icon drawable="@drawable/hearthstone" package="com.blizzard.wtcg.hearthstone" name="Hearthstone" />
     <icon drawable="@drawable/hex_installer" package="project.vivid.hex.bodhi" name="Hex Installer" />
+    <icon drawable="@drawable/hiby_music" package="com.hiby.music" name="Hiby Music" />
     <icon drawable="@drawable/hijri_calendar" package="com.kodelokus.hijri" name="Hijri Calendar" />
     <icon drawable="@drawable/hinge" package="co.hinge.app" name="Hinge" />
     <icon drawable="@drawable/ho" package="it.homobile.ho" name="ho." />
@@ -515,6 +519,7 @@
     <icon drawable="@drawable/ime" package="com.iMe.android" name="iMe" />
     <icon drawable="@drawable/imgurviewer" package="com.ensoft.imgurviewer" name="ImgurViewer" />
     <icon drawable="@drawable/imobile" package="com.csam.icici.bank.imobile" name="iMobile" />
+    <icon drawable="@drawable/indrive" package="sinet.startup.inDriver" name="inDrive" />
     <icon drawable="@drawable/infinity_for_reddit" package="ml.docilealligator.infinityforreddit" name="Infinity" />
     <icon drawable="@drawable/instagram" package="com.instagram.android" name="Instagram" />
     <icon drawable="@drawable/instagram" package="com.instagram.lite" name="Instagram" />
@@ -624,6 +629,12 @@
     <icon drawable="@drawable/medito" package="meditofoundation.medito" name="Medito" />
     <icon drawable="@drawable/medium" package="com.medium.reader" name="Medium" />
     <icon drawable="@drawable/mega" package="mega.privacy.android.app" name="Mega" />
+    <icon drawable="@drawable/meinvodafone" package="com.appseleration.android.selfcare" name="MeinVodafone / My Vodafone" />
+    <icon drawable="@drawable/meinvodafone" package="com.VodafoneIreland.MyVodafone" name="MeinVodafone / My Vodafone" />
+    <icon drawable="@drawable/meinvodafone" package="com.myvodafoneapp" name="MeinVodafone / My Vodafone" />
+    <icon drawable="@drawable/meinvodafone" package="com.vodafone.android" name="MeinVodafone / My Vodafone" />
+    <icon drawable="@drawable/meinvodafone" package="com.vodafone.selfservis" name="MeinVodafone / My Vodafone" />
+    <icon drawable="@drawable/meinvodafone" package="it.vodafone.my190" name="MeinVodafone / My Vodafone" />
     <icon drawable="@drawable/messages" package="com.android.messaging" name="Messages" />
     <icon drawable="@drawable/messages" package="com.android.mms" name="Messages" />
     <icon drawable="@drawable/messages" package="com.oneplus.mms" name="Messages" />
@@ -949,6 +960,7 @@
     <icon drawable="@drawable/simple_gallery" package="com.simplemobiletools.gallery" name="Simple Gallery" />
     <icon drawable="@drawable/simple_gallery" package="com.simplemobiletools.gallery.pro" name="Simple Gallery Pro" />
     <icon drawable="@drawable/simplenote" package="com.automattic.simplenote" name="Simplenote" />
+    <icon drawable="@drawable/simplytranslate" package="com.simplytranslate_mobile" name="SimplyTranslate" />
     <icon drawable="@drawable/sketchbook" package="com.adsk.sketchbook" name="Sketchbook" />
     <icon drawable="@drawable/sky_children_of_the_light" package="com.tgc.sky.android" name="Sky: Children of the Light" />
     <icon drawable="@drawable/skype" package="com.skype.raider" name="Skype" />
@@ -1049,6 +1061,7 @@
     <icon drawable="@drawable/tile" package="com.thetileapp.tile" name="Tile" />
     <icon drawable="@drawable/tim" package="br.com.timbrasil.meutim" name="Meu Tim" />
     <icon drawable="@drawable/timetree" package="works.jubilee.timetree" name="TimeTree" />
+    <icon drawable="@drawable/tinder" package="com.tinder" name="Tinder" />
     <icon drawable="@drawable/tinkoff" package="com.idamob.tinkoff.android" name="Tinkoff" />
     <icon drawable="@drawable/tips" package="com.samsung.android.app.tips" name="Tips" />
     <icon drawable="@drawable/tipster" package="tipster.evolutioit.app" name="Tipster" />
@@ -1060,6 +1073,7 @@
     <icon drawable="@drawable/tor_browser" package="org.torproject.torbrowser" name="Tor Browser" />
     <icon drawable="@drawable/total_commander" package="com.ghisler.android.TotalCommander" name="Total Commander" />
     <icon drawable="@drawable/trail_sense" package="com.kylecorry.trail_sense" name="Trail Sense" />
+    <icon drawable="@drawable/traderepublic" package="de.traderepublic.app" name="Trade Republic" />
     <icon drawable="@drawable/tricount" package="com.trilab.tricount.android" name="Tricount" />
     <icon drawable="@drawable/trime" package="com.osfans.trime" name="Trime" />
     <icon drawable="@drawable/trust_wallet" package="com.wallet.crypto.trustapp" name="Trust Wallet" />
@@ -1091,6 +1105,7 @@
     <icon drawable="@drawable/via_browser" package="mark.via.gp" name="Via Browser" />
     <icon drawable="@drawable/viber" package="com.viber.voip" name="Viber" />
     <icon drawable="@drawable/vimpay" package="net.petafuel.mobile.vimpay" name="Vimpay" />
+    <icon drawable="@drawable/vinted" package="fr.vinted" name="Vinted" />
     <icon drawable="@drawable/viper4android" package="com.pittvandewitt.viperfx" name="ViPER4Android FX" />
     <icon drawable="@drawable/viseca_one" package="ch.viseca.visecaone" name="One" />
     <icon drawable="@drawable/vivaldi" package="com.vivaldi.browser" name="Vivaldi" />
@@ -1113,6 +1128,7 @@
     <icon drawable="@drawable/weather" package="com.miui.weather2" name="Weather" />
     <icon drawable="@drawable/weather" package="net.oneplus.weather" name="Weather" />
     <icon drawable="@drawable/weather" package="org.secuso.privacyfriendlyweather" name="Weather" />
+    <icon drawable="@drawable/wechat" package="com.tencent.mm" name="WeChat" />
     <icon drawable="@drawable/werstreamt_es" package="de.wse.werstreamt.es" name="WerStreamt.es?" />
     <icon drawable="@drawable/wetter_online" package="de.wetteronline.wetterapp" name="Wetter Online" />
     <icon drawable="@drawable/wetter_online" package="de.wetteronline.wetterapppro" name="Wetter Online" />
@@ -1159,5 +1175,4 @@
     <icon drawable="@drawable/zepp_life" package="com.xiaomi.hm.health" name="Zepp Life" />
     <icon drawable="@drawable/zepto" package="com.zeptoconsumerapp" name="Zepto" />
     <icon drawable="@drawable/zoom" package="us.zoom.videomeetings" name="Zoom" />
-    <icon drawable="@drawable/wechat" package="com.tencent.mm" name="WeChat" />
 </icons>
