@@ -30,6 +30,7 @@
     <icon drawable="@drawable/amoled_in" package="in.amoled.darkawallpapers" name="Amoled.in" />
     <icon drawable="@drawable/among_us" package="com.innersloth.spacemafia" name="Among Us" />
     <icon drawable="@drawable/android_auto" package="com.google.android.projection.gearhead" name="Android Auto" />
+    <icon drawable="@drawable/angry_birds_journey" package="com.rovio.abcasual" name="Angry Birds Journey" />
     <icon drawable="@drawable/ankidroid" package="com.ichi2.anki" name="AnkiDroid" />
     <icon drawable="@drawable/another_notes_app" package="com.maltaisn.notes.sync" name="Another Notes" />
     <icon drawable="@drawable/antennapod" package="de.danoeh.antennapod" name="AntennaPod" />
@@ -78,6 +79,7 @@
     <icon drawable="@drawable/joyn" package="de.prosiebensat1digital.seventv" name="Joyn" />
     <icon drawable="@drawable/birday" package="com.minar.birday" name="Birday" />
     <icon drawable="@drawable/bitmoji" package="com.bitstrips.imoji" name="Bitmoji" />
+    <icon drawable="@drawable/bitrix24" package="com.bitrix24.android" name="Bitrix24" />
     <icon drawable="@drawable/bitwarden" package="com.x8bit.bitwarden" name="Bitwarden" />
     <icon drawable="@drawable/black_screen" package="io.japp.blackscreen" name="Black Screen" />
     <icon drawable="@drawable/blockinger" package="org.blockinger.game" name="Blockinger" />
@@ -242,6 +244,7 @@
     <icon drawable="@drawable/contacts" package="com.simplemobiletools.contacts.pro" name="Simple Contacts Pro" />
     <icon drawable="@drawable/cookbook" package="com.nextcloud_cookbook_flutter" name="Nextcloud Cookbook" />
     <icon drawable="@drawable/cookbook" package="de.micmun.android.nextcloudcookbook" name="Nextcloud Cookbook" />
+    <icon drawable="@drawable/cookbook" package="de.uni_potsdam.hpi.openmensa" name="OpenMensa" />
     <icon drawable="@drawable/coolors" package="co.coolors.android" name="Coolors" />
     <icon drawable="@drawable/corona_tracing" package="de.corona.tracing" name="Corona Tracing" />
     <icon drawable="@drawable/corona_warn" package="de.rki.coronawarnapp" name="Corona-Warn" />
@@ -568,6 +571,7 @@
     <icon drawable="@drawable/kicker" package="com.netbiscuits.kicker" name="kicker" />
     <icon drawable="@drawable/kiwi_browser" package="com.kiwibrowser.browser" name="Kiwi Browser" />
     <icon drawable="@drawable/kiwi_browser" package="com.kiwibrowser.browser.dev" name="Kiwi Browser" />
+    <icon drawable="@drawable/klarna" package="com.myklarnamobile" name="Klarna" />
     <icon drawable="@drawable/klck" package="org.kustom.lockscreen" name="KLCK" />
     <icon drawable="@drawable/klwp" package="org.kustom.wallpaper" name="KLWP" />
     <icon drawable="@drawable/knife_hit" package="com.ketchapp.knifehit" name="Knife Hit" />
@@ -605,6 +609,7 @@
     <icon drawable="@drawable/manipal_hospitals" package="com.manipal.manipalhospitals" name="Manipal Hospitals" />
     <icon drawable="@drawable/maps" package="com.google.android.apps.maps" name="Google Maps" />
     <icon drawable="@drawable/maps" package="com.google.android.apps.mapslite" name="Google Maps" />
+    <icon drawable="@drawable/maps" package="us.spotco.maps" name="GMaps WV" />
     <icon drawable="@drawable/marindeck" package="online.hisubway.marindeck" name="MarinDeck" />
     <icon drawable="@drawable/mastodon" package="org.joinmastodon.android" name="Mastodon" />
     <icon drawable="@drawable/mastodon" package="org.joinmastodon.android.sk" name="Mastodon" />
@@ -865,6 +870,7 @@
     <icon drawable="@drawable/qksms" package="com.moez.QKSMS" name="QKSMS" />
     <icon drawable="@drawable/qobuz" package="com.qobuz.music" name="Qobuz" />
     <icon drawable="@drawable/qr_reader" package="com.teacapps.barcodescanner" name="QR Reader" />
+    <icon drawable="@drawable/qr_reader" package="com.secuso.privacyFriendlyCodeScanner" name="QR Scanner" />
     <icon drawable="@drawable/qr_reader" package="com.tomfong.simpleqr" name="Simple QR" />
     <icon drawable="@drawable/qr_reader" package="org.barcodescanner" name="QR &amp; Barcode Scanner" />
     <icon drawable="@drawable/quickedit" package="com.rhmsoft.edit" name="QuickEdit" />
@@ -909,6 +915,7 @@
     <icon drawable="@drawable/riot_mobile" package="com.riotgames.mobile.leagueconnect" name="Riot Mobile" />
     <icon drawable="@drawable/roblox" package="com.roblox.client" name="Roblox" />
     <icon drawable="@drawable/rock_am_ring" package="com.mlk.rockamring" name="RAR &amp; RIP" />
+    <icon drawable="@drawable/rocket_league" package="com.Psyonix.RL2D" name="Rocket League Sideswipe" />
     <icon drawable="@drawable/rockman_x_dive" package="tw.com.capcom.rxd" name="ROCKMAN X DiVE" />
     <icon drawable="@drawable/roku" package="com.roku.remote" name="Roku" />
     <icon drawable="@drawable/rvk" package="koeln.kvb.ticket.rvkapp" name="RVK" />
@@ -936,6 +943,7 @@
     <icon drawable="@drawable/seriesguide" package="com.battlelancer.seriesguide" name="SeriesGuide" />
     <icon drawable="@drawable/sesame" package="ninja.sesame.app.edge" name="Sesame" />
     <icon drawable="@drawable/session" package="network.loki.messenger" name="Session" />
+    <icon drawable="@drawable/session" package="network.loki.messenger.fdroid" name="Session" />
     <icon drawable="@drawable/settings" package="com.android.settings" name="Settings" />
     <icon drawable="@drawable/share_me" package="com.xiaomi.midrop" name="ShareMe"/>
     <icon drawable="@drawable/share_me" package="com.xiaomi.midrop.SplashScreen" name="ShareMe"/>
@@ -1003,6 +1011,7 @@
     <icon drawable="@drawable/spotify" package="com.spotify.music" name="Spotify" />
     <icon drawable="@drawable/squircle" package="com.blacksquircle.ui" name="Squircle IDE" />
     <icon drawable="@drawable/standard_notes" package="com.standardnotes" name="Standard Notes" />
+    <icon drawable="@drawable/stark_hantel" package="se.virtualtrainer.dumbbell" name="Stark Hantel" />
     <icon drawable="@drawable/stats_fm" package="dev.netlob.spotistats" name="Stats.fm" />
     <icon drawable="@drawable/stealth" package="com.cosmos.unreddit" name="Stealth" />
     <icon drawable="@drawable/steam" package="com.valvesoftware.android.steam.community" name="Steam" />
@@ -1041,6 +1050,7 @@
     <icon drawable="@drawable/telegram" package="org.telegram.messenger.web" name="Telegram" />
     <icon drawable="@drawable/telegram" package="org.thunderdog.challegram" name="Telegram X" />
     <icon drawable="@drawable/telegram" package="org.thunderdog.challegramtwo" name="Telegram X" />
+    <icon drawable="@drawable/telegram" package="org.forkclient.messenger.beta" name="Fork Client" />
     <icon drawable="@drawable/telegram" package="org.forkgram.messenger" name="Fork Client" />
     <icon drawable="@drawable/termux" package="com.termux" name="Termux" />
     <icon drawable="@drawable/textra" package="com.textra" name="Textra"/>
@@ -1078,6 +1088,7 @@
     <icon drawable="@drawable/trime" package="com.osfans.trime" name="Trime" />
     <icon drawable="@drawable/trust_wallet" package="com.wallet.crypto.trustapp" name="Trust Wallet" />
     <icon drawable="@drawable/trust_wallet" package="app.fedilab.nitterizeme" name="Trust Wallet" />
+    <icon drawable="@drawable/tunnelbear" package="com.tunnelbear.android" name="Tunnelbear" />
     <icon drawable="@drawable/turbotel" package="ellipi.messenger" name="TurboTel" />
     <icon drawable="@drawable/tutanota" package="de.tutao.tutanota" name="Tutanota" />
     <icon drawable="@drawable/tv_time" package="com.tozelabs.tvshowtime" name="TV Time" />
@@ -1133,6 +1144,7 @@
     <icon drawable="@drawable/wetter_online" package="de.wetteronline.wetterapp" name="Wetter Online" />
     <icon drawable="@drawable/wetter_online" package="de.wetteronline.wetterapppro" name="Wetter Online" />
     <icon drawable="@drawable/wger" package="de.wger.flutter" name="wger" />
+    <icon drawable="@drawable/windscribe" package="com.windscribe.vpn" name="Windscribe" />
     <icon drawable="@drawable/wireguard" package="com.wireguard.android" name="Wireguard" />
     <icon drawable="@drawable/whatsapp" package="com.whatsapp" name="WhatsApp" />
     <icon drawable="@drawable/whatsapp_business" package="com.whatsapp.w4b" name="WhatsApp Business" />
