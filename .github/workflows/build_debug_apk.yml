@@ -77,7 +77,7 @@ jobs:
       - name: Download artifact
         uses: actions/download-artifact@v3
         with:
-          name: Debug APK
+          name: Lawnicons develop APK
           path: artifacts/debug-apk
       - name: Send notifications
         run: python send_notifications.py
